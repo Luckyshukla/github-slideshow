@@ -1,0 +1,43 @@
+main {
+          	margin-top: 60px;
+            padding-top: 1rem;
+            padding-bottom: 2rem;
+        }
+        .extra-margins {
+            margin-top: 1rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .jumbotron {
+            text-align: center;
+        }
+
+        .navbar {
+            background-color: #C0C0C0;
+        }
+
+        footer.page-footer {
+            background-color: #000000;
+            color: #ffffff;
+        }
+        .navbar .btn-group .dropdown-menu a:hover {
+            color: #000 !important;
+        }
+        .navbar .btn-group .dropdown-menu a:active {
+            color: #fff !important;
+        }
+        #Consultation{
+          margin-top:10px;
+          padding-left:20px;
+        }
+        main{
+          background-color: #C0C0C0;
+        }
+        #second_row{
+          margin-left: 10px;
+          margin-right: 10px;
+        }
+        .w-200 {
+          width: 200px;
+        }
+        
